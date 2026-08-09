@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://nicole-gardens-attach-choosing.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://for-mysimon-warrant-include.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-08-09 05:59:07 UTC
+Created   : 2026-08-09 10:47:12 UTC
 =======================================================
