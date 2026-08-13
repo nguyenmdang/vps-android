@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://anti-pig-phd-continuing.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://reported-temporary-sep-essays.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-08-12 20:56:59 UTC
+Created   : 2026-08-13 02:13:36 UTC
 =======================================================
