@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://vertical-nest-stroke-vary.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://moral-personally-continues-modelling.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-08-15 15:32:37 UTC
+Created   : 2026-08-15 20:35:18 UTC
 =======================================================
