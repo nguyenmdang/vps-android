@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://dairy-manor-going-consequently.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://wines-exhaust-learners-nil.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-01 22:37:54 UTC
+Created   : 2026-09-02 03:29:47 UTC
 =======================================================
