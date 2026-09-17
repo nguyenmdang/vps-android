@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://benefits-appreciate-survivors-tribunal.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://infant-borders-convenience-long.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-17 04:00:33 UTC
+Created   : 2026-09-17 10:03:30 UTC
 =======================================================
