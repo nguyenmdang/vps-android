@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://measure-pizza-eagle-configuration.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://benefit-admission-invision-endorsed.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-15 23:07:19 UTC
+Created   : 2026-10-16 03:41:33 UTC
 =======================================================
