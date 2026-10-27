@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://ice-practices-packets-falling.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://voting-judy-missouri-base.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-26 20:32:05 UTC
+Created   : 2026-10-27 04:13:08 UTC
 =======================================================
