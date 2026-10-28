@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://accessibility-maps-three-functioning.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://accountability-farmer-big-downloadable.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-27 23:46:37 UTC
+Created   : 2026-10-28 04:39:24 UTC
 =======================================================
