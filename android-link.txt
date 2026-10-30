@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://charming-ethics-teeth-rise.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://twenty-presence-solar-dental.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-30 11:24:21 UTC
+Created   : 2026-10-30 20:03:22 UTC
 =======================================================
