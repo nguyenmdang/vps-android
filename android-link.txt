@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://quotes-excel-radical-vacations.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://sherman-belfast-relevant-gonna.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-11-14 23:52:45 UTC
+Created   : 2026-11-15 05:24:49 UTC
 =======================================================
