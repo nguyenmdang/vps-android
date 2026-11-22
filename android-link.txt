@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://earrings-elliott-firewall-steam.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://bench-donald-matters-yield.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-11-22 13:17:31 UTC
+Created   : 2026-11-22 21:07:48 UTC
 =======================================================
